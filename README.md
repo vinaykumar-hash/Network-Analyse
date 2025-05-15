@@ -1,6 +1,6 @@
 # Real-Time Network Traffic Anomaly Detection
 
-This project provides a real-time network monitoring system to detect malicious traffic, such as DDoS attacks, using a machine learning model. It captures network packets, processes them into flows, extracts features, and classifies flows as benign or malicious using a pre-trained RandomForestClassifier trained on the CICIDS2017 DDoS dataset.
+This project provides a real-time network monitoring system to detect malicious traffic, such as DDoS attacks, using a machine learning model. It captures network packets, processes them into flows, extracts features, and classifies flows as benign or malicious using a pre-trained RandomForestClassifier trained on the CICIDS2017 datasets.
 
 ## Features
 - Captures TCP/UDP packets using Scapy.
